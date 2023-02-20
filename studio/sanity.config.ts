@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'paws',
 
-  projectId: 'vew0wi3s',
+  projectId: 'aa3vzu4v',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
